@@ -23,6 +23,8 @@ OBS: A base de dados é fictícia e gerada por um código em Python, dentro da p
    ```bash
    git clone https://github.com/KevinShiroma/curso-power-bi
 
-2. Abra o arquivo curso-pwbi-fecap.pbix no Power BI Desktop
+2. Abra o arquivo curso-pwbi-fecap.pbix no Power BI Desktop <br> <br>
 
-3. 
+![Dashboard](https://github.com/KevinShiroma/curso-power-bi/blob/main/src/1722650684821.jpg)
+
+
