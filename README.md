@@ -17,16 +17,12 @@ OBS: A base de dados é fictícia e gerada por um código em Python, dentro da p
 - **DAX (Data Analysis Expressions)**: Para cálculos e manipulação de dados.
 - **Power Query**: Para transformação e limpeza de dados.
 
-## Estrutura do Projeto
-
-- `/datasets`: Conjunto de dados utilizados no projeto (anonimizados, se necessário).
-- `/dashboards`: Arquivos dos dashboards criados no Power BI.
-- `/reports`: Exemplos de relatórios gerados a partir do dashboard.
-- `/scripts`: Scripts DAX ou Power Query utilizados no projeto.
-- `/documentation`: Documentação técnica e do usuário final.
-
 ## Como Utilizar
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/KevinShiroma/curso-power-bi
+
+2. Abra o arquivo curso-pwbi-fecap.pbix no Power BI Desktop
+
+3. 
